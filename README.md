@@ -7,7 +7,7 @@ Setting up
 1. switch to `advanced` mode in your TamperMonkey settings (it allows you to access and modify the `Storage` of the extension)
 ![TM_setup_1](./resources/README_TM_settings_1.png)
 
-2. Navigate to [script raw page](https://github.com/rplevka/gh-prt-jnks/raw/main/gh-prt-jnks.user.js) and TamperMonkey should pop up with confirmation dialog to install the script
+2. Navigate to [script raw page](https://github.com/SatelliteQE/gh-prt-jnks/raw/main/gh-prt-jnks.user.js) and TamperMonkey should pop up with confirmation dialog to install the script
 
 3. With the userscript installed and enabled, navigate to any GH PR page (a page of a  specific PR)
 Hit refresh (an initial settings should be seeded)
